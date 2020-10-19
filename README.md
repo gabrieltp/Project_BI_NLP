@@ -2,7 +2,7 @@
 
 This project consists on working with reported complains about important companies and services in Brasil on 2017. The goal of the project is to know the data and learn more about it through Natural Language Processing (NLP) techniques.
 
-All the project is writen in Portuguese.
+All the project is written in Portuguese.
 
 The whole project was done in Jupyter Notebook.
 
