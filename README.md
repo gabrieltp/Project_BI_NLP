@@ -12,5 +12,7 @@ Afterwards, I've used Tokenization, removed stopwords, Stemming/Lemmatization, P
 
 The final challenge was to create three Wordcloud of most common words used in those complaints reports filtered by companies, state and service, as shown below.
 
-![wordcloud](./figs/wordcloud.png)
+<p align="center">
+  <img src="./figs/wordcloud.png"/>
+</p>
 
