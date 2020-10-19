@@ -4,9 +4,9 @@ This project consists on working with reported complains about important compani
 
 All the project is writen in Portuguese.
 
-The database was provided by the teacher in a .csv file and shows data with region, state, company, subsidiaries, area, service, problem and user's age range.
-
 The whole project was done in Jupyter Notebook.
+
+The database was provided by the teacher in a .csv file and shows data with region, state, company, subsidiaries, area, service, problem and user's age range.
 
 Some pre-processing techniques were necessary to work with clean data. I've removed null answers, dropped NAs and formatted the text initially.
 
